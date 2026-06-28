@@ -8,9 +8,7 @@ import matplotlib.pyplot as plt
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 os.makedirs('data', exist_ok=True)
 
-# ─────────────────────────────────────────────
 # 1. DATA PREP
-# ─────────────────────────────────────────────
 df = pd.read_csv('DataCoSupplyChainDataset.csv', encoding='latin1',
                   usecols=['order date (DateOrders)','Category Name','Order Item Quantity'])
 df['order_date'] = pd.to_datetime(df['order date (DateOrders)'])
@@ -51,9 +49,7 @@ train = feat[feat['week'].isin(train_weeks)].copy()
 calib = feat[feat['week'].isin(calib_weeks)].copy()
 test  = feat[feat['week'].isin(test_weeks)].copy()
 
-# ─────────────────────────────────────────────
 # 2. METHOD A — QUANTILE REGRESSION + CQR
-# ─────────────────────────────────────────────
 print("=" * 55)
 print("METHOD A: Quantile Regression + CQR calibration")
 print("=" * 55)
@@ -91,9 +87,8 @@ print("-" * 26)
 for (lvl, c1), (_, c2) in zip(raw_curve, cqr_curve):
     print(f"{lvl:<8.2f} {c1:>8.2f} {c2:>8.2f}")
 
-# ─────────────────────────────────────────────
+
 # 3. METHOD B — BOOTSTRAP ENSEMBLE
-# ─────────────────────────────────────────────
 print("\n" + "=" * 55)
 print("METHOD B: Bootstrap Ensemble")
 print("=" * 55)
@@ -152,9 +147,8 @@ for lvl in levels:
     boot_curve.append((lvl, raw_boot_cov, boot_cqr_cov))
     print(f"{lvl:<8.2f} {raw_boot_cov:>10.2f} {boot_cqr_cov:>10.2f}")
 
-# ─────────────────────────────────────────────
+
 # 4. CALIBRATION CURVE — both methods on one chart
-# ─────────────────────────────────────────────
 lv = [l for l, _ in cqr_curve]
 fig, ax = plt.subplots(figsize=(6, 5))
 ax.plot([0, 1], [0, 1], '--', color='gray', label='Ideal (perfect calibration)')
@@ -171,9 +165,8 @@ plt.savefig('calibration_curve.png', dpi=130)
 plt.close()
 print("\nSaved: calibration_curve.png")
 
-# ─────────────────────────────────────────────
+
 # 5. INTERVAL WIDTH COMPARISON — which method is sharper?
-# ─────────────────────────────────────────────
 test['cqr_width_90']  = test['hi_cqr_0.9']         - test['lo_cqr_0.9']
 test['boot_width_90'] = test['boot_hi_cqr_0.9']     - test['boot_lo_cqr_0.9']
 
@@ -199,9 +192,8 @@ plt.savefig('interval_width_comparison.png', dpi=130)
 plt.close()
 print("Saved: interval_width_comparison.png")
 
-# ─────────────────────────────────────────────
+
 # 6. RISK TIERS  (using Method A CQR — primary method)
-# ─────────────────────────────────────────────
 cat_mean = train.groupby('cat_code')['qty'].mean()
 test['rel_width'] = test['cqr_width_90'] / test['cat_code'].map(cat_mean).clip(lower=1)
 q1, q2 = test['rel_width'].quantile([0.33, 0.66])
@@ -212,9 +204,8 @@ def tier(w):
 test['risk_tier'] = test['rel_width'].apply(tier)
 print("\nRisk tiers:\n", test['risk_tier'].value_counts().to_string())
 
-# ─────────────────────────────────────────────
+
 # 7. DECISION SIMULATION
-# ─────────────────────────────────────────────
 HOLD_COST, STOCKOUT_COST = 1.0, 5.0
 test['stock_naive']     = test['point']
 test['stock_cqr']       = test['hi_cqr_0.9']
@@ -251,9 +242,8 @@ plt.savefig('decision_simulation.png', dpi=130)
 plt.close()
 print("Saved: decision_simulation.png")
 
-# ─────────────────────────────────────────────
+
 # 8. UNDERESTIMATION AUDIT
-# ─────────────────────────────────────────────
 test['vol_tier'] = pd.qcut(test['vol8'], 3, labels=['calm', 'moderate', 'volatile'])
 print("\nUnderestimation audit — coverage by volatility (target 90%):")
 print(f"{'Bucket':<12} {'Method A':>10} {'Method B':>10}")
@@ -264,9 +254,8 @@ for vt in ['calm', 'moderate', 'volatile']:
     cov_b = ((d['qty'] >= d['boot_lo_cqr_0.9']) & (d['qty'] <= d['boot_hi_cqr_0.9'])).mean()
     print(f"{vt:<12} {cov_a:>10.2f} {cov_b:>10.2f}")
 
-# ─────────────────────────────────────────────
-# 9. SUMMARY TABLE — printed for the PDF
-# ─────────────────────────────────────────────
+
+# 9. SUMMARY TABLE 
 print("\n" + "=" * 55)
 print("SUMMARY: Method A (QR+CQR) vs Method B (Bootstrap+CQR)")
 print("=" * 55)
