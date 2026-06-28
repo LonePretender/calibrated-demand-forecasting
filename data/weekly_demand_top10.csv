@@ -1,0 +1,1451 @@
+week,category,qty
+2014-12-29,Camping & Hiking,64
+2015-01-05,Camping & Hiking,95
+2015-01-12,Camping & Hiking,97
+2015-01-19,Camping & Hiking,82
+2015-01-26,Camping & Hiking,90
+2015-02-02,Camping & Hiking,99
+2015-02-09,Camping & Hiking,95
+2015-02-16,Camping & Hiking,101
+2015-02-23,Camping & Hiking,95
+2015-03-02,Camping & Hiking,85
+2015-03-09,Camping & Hiking,95
+2015-03-16,Camping & Hiking,95
+2015-03-23,Camping & Hiking,81
+2015-03-30,Camping & Hiking,103
+2015-04-06,Camping & Hiking,116
+2015-04-13,Camping & Hiking,99
+2015-04-20,Camping & Hiking,86
+2015-04-27,Camping & Hiking,85
+2015-05-04,Camping & Hiking,78
+2015-05-11,Camping & Hiking,92
+2015-05-18,Camping & Hiking,89
+2015-05-25,Camping & Hiking,99
+2015-06-01,Camping & Hiking,89
+2015-06-08,Camping & Hiking,102
+2015-06-15,Camping & Hiking,94
+2015-06-22,Camping & Hiking,87
+2015-06-29,Camping & Hiking,102
+2015-07-06,Camping & Hiking,86
+2015-07-13,Camping & Hiking,91
+2015-07-20,Camping & Hiking,100
+2015-07-27,Camping & Hiking,102
+2015-08-03,Camping & Hiking,91
+2015-08-10,Camping & Hiking,92
+2015-08-17,Camping & Hiking,85
+2015-08-24,Camping & Hiking,92
+2015-08-31,Camping & Hiking,108
+2015-09-07,Camping & Hiking,95
+2015-09-14,Camping & Hiking,104
+2015-09-21,Camping & Hiking,101
+2015-09-28,Camping & Hiking,99
+2015-10-05,Camping & Hiking,97
+2015-10-12,Camping & Hiking,107
+2015-10-19,Camping & Hiking,91
+2015-10-26,Camping & Hiking,95
+2015-11-02,Camping & Hiking,117
+2015-11-09,Camping & Hiking,87
+2015-11-16,Camping & Hiking,94
+2015-11-23,Camping & Hiking,105
+2015-11-30,Camping & Hiking,77
+2015-12-07,Camping & Hiking,96
+2015-12-14,Camping & Hiking,84
+2015-12-21,Camping & Hiking,82
+2015-12-28,Camping & Hiking,108
+2016-01-04,Camping & Hiking,82
+2016-01-11,Camping & Hiking,101
+2016-01-18,Camping & Hiking,95
+2016-01-25,Camping & Hiking,91
+2016-02-01,Camping & Hiking,106
+2016-02-08,Camping & Hiking,74
+2016-02-15,Camping & Hiking,94
+2016-02-22,Camping & Hiking,94
+2016-02-29,Camping & Hiking,98
+2016-03-07,Camping & Hiking,87
+2016-03-14,Camping & Hiking,96
+2016-03-21,Camping & Hiking,108
+2016-03-28,Camping & Hiking,101
+2016-04-04,Camping & Hiking,87
+2016-04-11,Camping & Hiking,91
+2016-04-18,Camping & Hiking,89
+2016-04-25,Camping & Hiking,84
+2016-05-02,Camping & Hiking,92
+2016-05-09,Camping & Hiking,103
+2016-05-16,Camping & Hiking,90
+2016-05-23,Camping & Hiking,99
+2016-05-30,Camping & Hiking,111
+2016-06-06,Camping & Hiking,105
+2016-06-13,Camping & Hiking,80
+2016-06-20,Camping & Hiking,100
+2016-06-27,Camping & Hiking,94
+2016-07-04,Camping & Hiking,91
+2016-07-11,Camping & Hiking,94
+2016-07-18,Camping & Hiking,106
+2016-07-25,Camping & Hiking,91
+2016-08-01,Camping & Hiking,95
+2016-08-08,Camping & Hiking,91
+2016-08-15,Camping & Hiking,108
+2016-08-22,Camping & Hiking,77
+2016-08-29,Camping & Hiking,92
+2016-09-05,Camping & Hiking,91
+2016-09-12,Camping & Hiking,94
+2016-09-19,Camping & Hiking,98
+2016-09-26,Camping & Hiking,83
+2016-10-03,Camping & Hiking,99
+2016-10-10,Camping & Hiking,94
+2016-10-17,Camping & Hiking,94
+2016-10-24,Camping & Hiking,101
+2016-10-31,Camping & Hiking,105
+2016-11-07,Camping & Hiking,99
+2016-11-14,Camping & Hiking,90
+2016-11-21,Camping & Hiking,95
+2016-11-28,Camping & Hiking,94
+2016-12-05,Camping & Hiking,104
+2016-12-12,Camping & Hiking,78
+2016-12-19,Camping & Hiking,87
+2016-12-26,Camping & Hiking,92
+2017-01-02,Camping & Hiking,85
+2017-01-09,Camping & Hiking,105
+2017-01-16,Camping & Hiking,100
+2017-01-23,Camping & Hiking,88
+2017-01-30,Camping & Hiking,108
+2017-02-06,Camping & Hiking,97
+2017-02-13,Camping & Hiking,110
+2017-02-20,Camping & Hiking,107
+2017-02-27,Camping & Hiking,113
+2017-03-06,Camping & Hiking,98
+2017-03-13,Camping & Hiking,103
+2017-03-20,Camping & Hiking,107
+2017-03-27,Camping & Hiking,92
+2017-04-03,Camping & Hiking,99
+2017-04-10,Camping & Hiking,96
+2017-04-17,Camping & Hiking,111
+2017-04-24,Camping & Hiking,100
+2017-05-01,Camping & Hiking,111
+2017-05-08,Camping & Hiking,113
+2017-05-15,Camping & Hiking,90
+2017-05-22,Camping & Hiking,88
+2017-05-29,Camping & Hiking,107
+2017-06-05,Camping & Hiking,90
+2017-06-12,Camping & Hiking,109
+2017-06-19,Camping & Hiking,99
+2017-06-26,Camping & Hiking,85
+2017-07-03,Camping & Hiking,94
+2017-07-10,Camping & Hiking,96
+2017-07-17,Camping & Hiking,109
+2017-07-24,Camping & Hiking,90
+2017-07-31,Camping & Hiking,90
+2017-08-07,Camping & Hiking,89
+2017-08-14,Camping & Hiking,92
+2017-08-21,Camping & Hiking,90
+2017-08-28,Camping & Hiking,99
+2017-09-04,Camping & Hiking,98
+2017-09-11,Camping & Hiking,104
+2017-09-18,Camping & Hiking,97
+2017-09-25,Camping & Hiking,90
+2017-10-02,Camping & Hiking,4
+2014-12-29,Cardio Equipment,166
+2015-01-05,Cardio Equipment,254
+2015-01-12,Cardio Equipment,255
+2015-01-19,Cardio Equipment,274
+2015-01-26,Cardio Equipment,251
+2015-02-02,Cardio Equipment,229
+2015-02-09,Cardio Equipment,241
+2015-02-16,Cardio Equipment,291
+2015-02-23,Cardio Equipment,233
+2015-03-02,Cardio Equipment,229
+2015-03-09,Cardio Equipment,314
+2015-03-16,Cardio Equipment,274
+2015-03-23,Cardio Equipment,228
+2015-03-30,Cardio Equipment,216
+2015-04-06,Cardio Equipment,264
+2015-04-13,Cardio Equipment,265
+2015-04-20,Cardio Equipment,281
+2015-04-27,Cardio Equipment,275
+2015-05-04,Cardio Equipment,341
+2015-05-11,Cardio Equipment,284
+2015-05-18,Cardio Equipment,310
+2015-05-25,Cardio Equipment,309
+2015-06-01,Cardio Equipment,344
+2015-06-08,Cardio Equipment,312
+2015-06-15,Cardio Equipment,264
+2015-06-22,Cardio Equipment,257
+2015-06-29,Cardio Equipment,309
+2015-07-06,Cardio Equipment,245
+2015-07-13,Cardio Equipment,261
+2015-07-20,Cardio Equipment,216
+2015-07-27,Cardio Equipment,250
+2015-08-03,Cardio Equipment,245
+2015-08-10,Cardio Equipment,256
+2015-08-17,Cardio Equipment,288
+2015-08-24,Cardio Equipment,228
+2015-08-31,Cardio Equipment,284
+2015-09-07,Cardio Equipment,266
+2015-09-14,Cardio Equipment,237
+2015-09-21,Cardio Equipment,279
+2015-09-28,Cardio Equipment,283
+2015-10-05,Cardio Equipment,261
+2015-10-12,Cardio Equipment,299
+2015-10-19,Cardio Equipment,277
+2015-10-26,Cardio Equipment,321
+2015-11-02,Cardio Equipment,253
+2015-11-09,Cardio Equipment,215
+2015-11-16,Cardio Equipment,284
+2015-11-23,Cardio Equipment,287
+2015-11-30,Cardio Equipment,239
+2015-12-07,Cardio Equipment,293
+2015-12-14,Cardio Equipment,246
+2015-12-21,Cardio Equipment,251
+2015-12-28,Cardio Equipment,278
+2016-01-04,Cardio Equipment,271
+2016-01-11,Cardio Equipment,285
+2016-01-18,Cardio Equipment,249
+2016-01-25,Cardio Equipment,267
+2016-02-01,Cardio Equipment,248
+2016-02-08,Cardio Equipment,202
+2016-02-15,Cardio Equipment,261
+2016-02-22,Cardio Equipment,253
+2016-02-29,Cardio Equipment,287
+2016-03-07,Cardio Equipment,205
+2016-03-14,Cardio Equipment,295
+2016-03-21,Cardio Equipment,232
+2016-03-28,Cardio Equipment,272
+2016-04-04,Cardio Equipment,293
+2016-04-11,Cardio Equipment,223
+2016-04-18,Cardio Equipment,281
+2016-04-25,Cardio Equipment,223
+2016-05-02,Cardio Equipment,211
+2016-05-09,Cardio Equipment,222
+2016-05-16,Cardio Equipment,242
+2016-05-23,Cardio Equipment,227
+2016-05-30,Cardio Equipment,212
+2016-06-06,Cardio Equipment,246
+2016-06-13,Cardio Equipment,274
+2016-06-20,Cardio Equipment,245
+2016-06-27,Cardio Equipment,278
+2016-07-04,Cardio Equipment,286
+2016-07-11,Cardio Equipment,243
+2016-07-18,Cardio Equipment,247
+2016-07-25,Cardio Equipment,248
+2016-08-01,Cardio Equipment,285
+2016-08-08,Cardio Equipment,256
+2016-08-15,Cardio Equipment,241
+2016-08-22,Cardio Equipment,235
+2016-08-29,Cardio Equipment,289
+2016-09-05,Cardio Equipment,244
+2016-09-12,Cardio Equipment,263
+2016-09-19,Cardio Equipment,242
+2016-09-26,Cardio Equipment,279
+2016-10-03,Cardio Equipment,209
+2016-10-10,Cardio Equipment,231
+2016-10-17,Cardio Equipment,229
+2016-10-24,Cardio Equipment,268
+2016-10-31,Cardio Equipment,240
+2016-11-07,Cardio Equipment,280
+2016-11-14,Cardio Equipment,299
+2016-11-21,Cardio Equipment,302
+2016-11-28,Cardio Equipment,274
+2016-12-05,Cardio Equipment,269
+2016-12-12,Cardio Equipment,284
+2016-12-19,Cardio Equipment,290
+2016-12-26,Cardio Equipment,229
+2017-01-02,Cardio Equipment,311
+2017-01-09,Cardio Equipment,253
+2017-01-16,Cardio Equipment,305
+2017-01-23,Cardio Equipment,278
+2017-01-30,Cardio Equipment,323
+2017-02-06,Cardio Equipment,277
+2017-02-13,Cardio Equipment,278
+2017-02-20,Cardio Equipment,345
+2017-02-27,Cardio Equipment,249
+2017-03-06,Cardio Equipment,227
+2017-03-13,Cardio Equipment,275
+2017-03-20,Cardio Equipment,266
+2017-03-27,Cardio Equipment,261
+2017-04-03,Cardio Equipment,226
+2017-04-10,Cardio Equipment,269
+2017-04-17,Cardio Equipment,292
+2017-04-24,Cardio Equipment,229
+2017-05-01,Cardio Equipment,247
+2017-05-08,Cardio Equipment,252
+2017-05-15,Cardio Equipment,243
+2017-05-22,Cardio Equipment,240
+2017-05-29,Cardio Equipment,246
+2017-06-05,Cardio Equipment,207
+2017-06-12,Cardio Equipment,206
+2017-06-19,Cardio Equipment,279
+2017-06-26,Cardio Equipment,243
+2017-07-03,Cardio Equipment,238
+2017-07-10,Cardio Equipment,232
+2017-07-17,Cardio Equipment,291
+2017-07-24,Cardio Equipment,279
+2017-07-31,Cardio Equipment,233
+2017-08-07,Cardio Equipment,250
+2017-08-14,Cardio Equipment,251
+2017-08-21,Cardio Equipment,247
+2017-08-28,Cardio Equipment,272
+2017-09-04,Cardio Equipment,289
+2017-09-11,Cardio Equipment,223
+2017-09-18,Cardio Equipment,281
+2017-09-25,Cardio Equipment,278
+2017-10-02,Cardio Equipment,18
+2014-12-29,Cleats,306
+2015-01-05,Cleats,529
+2015-01-12,Cleats,560
+2015-01-19,Cleats,547
+2015-01-26,Cleats,522
+2015-02-02,Cleats,468
+2015-02-09,Cleats,509
+2015-02-16,Cleats,510
+2015-02-23,Cleats,544
+2015-03-02,Cleats,580
+2015-03-09,Cleats,537
+2015-03-16,Cleats,470
+2015-03-23,Cleats,461
+2015-03-30,Cleats,566
+2015-04-06,Cleats,464
+2015-04-13,Cleats,581
+2015-04-20,Cleats,489
+2015-04-27,Cleats,515
+2015-05-04,Cleats,466
+2015-05-11,Cleats,546
+2015-05-18,Cleats,489
+2015-05-25,Cleats,498
+2015-06-01,Cleats,497
+2015-06-08,Cleats,419
+2015-06-15,Cleats,579
+2015-06-22,Cleats,529
+2015-06-29,Cleats,526
+2015-07-06,Cleats,469
+2015-07-13,Cleats,567
+2015-07-20,Cleats,463
+2015-07-27,Cleats,503
+2015-08-03,Cleats,535
+2015-08-10,Cleats,575
+2015-08-17,Cleats,484
+2015-08-24,Cleats,587
+2015-08-31,Cleats,511
+2015-09-07,Cleats,571
+2015-09-14,Cleats,428
+2015-09-21,Cleats,571
+2015-09-28,Cleats,486
+2015-10-05,Cleats,545
+2015-10-12,Cleats,431
+2015-10-19,Cleats,485
+2015-10-26,Cleats,481
+2015-11-02,Cleats,523
+2015-11-09,Cleats,513
+2015-11-16,Cleats,506
+2015-11-23,Cleats,525
+2015-11-30,Cleats,493
+2015-12-07,Cleats,512
+2015-12-14,Cleats,464
+2015-12-21,Cleats,562
+2015-12-28,Cleats,451
+2016-01-04,Cleats,482
+2016-01-11,Cleats,446
+2016-01-18,Cleats,589
+2016-01-25,Cleats,478
+2016-02-01,Cleats,517
+2016-02-08,Cleats,451
+2016-02-15,Cleats,530
+2016-02-22,Cleats,472
+2016-02-29,Cleats,565
+2016-03-07,Cleats,523
+2016-03-14,Cleats,514
+2016-03-21,Cleats,527
+2016-03-28,Cleats,536
+2016-04-04,Cleats,542
+2016-04-11,Cleats,530
+2016-04-18,Cleats,560
+2016-04-25,Cleats,493
+2016-05-02,Cleats,549
+2016-05-09,Cleats,543
+2016-05-16,Cleats,529
+2016-05-23,Cleats,543
+2016-05-30,Cleats,529
+2016-06-06,Cleats,523
+2016-06-13,Cleats,489
+2016-06-20,Cleats,530
+2016-06-27,Cleats,482
+2016-07-04,Cleats,524
+2016-07-11,Cleats,557
+2016-07-18,Cleats,490
+2016-07-25,Cleats,466
+2016-08-01,Cleats,494
+2016-08-08,Cleats,542
+2016-08-15,Cleats,517
+2016-08-22,Cleats,542
+2016-08-29,Cleats,500
+2016-09-05,Cleats,558
+2016-09-12,Cleats,502
+2016-09-19,Cleats,528
+2016-09-26,Cleats,515
+2016-10-03,Cleats,448
+2016-10-10,Cleats,525
+2016-10-17,Cleats,489
+2016-10-24,Cleats,586
+2016-10-31,Cleats,515
+2016-11-07,Cleats,502
+2016-11-14,Cleats,529
+2016-11-21,Cleats,503
+2016-11-28,Cleats,582
+2016-12-05,Cleats,570
+2016-12-12,Cleats,562
+2016-12-19,Cleats,502
+2016-12-26,Cleats,480
+2017-01-02,Cleats,495
+2017-01-09,Cleats,506
+2017-01-16,Cleats,585
+2017-01-23,Cleats,489
+2017-01-30,Cleats,502
+2017-02-06,Cleats,487
+2017-02-13,Cleats,558
+2017-02-20,Cleats,587
+2017-02-27,Cleats,510
+2017-03-06,Cleats,527
+2017-03-13,Cleats,579
+2017-03-20,Cleats,442
+2017-03-27,Cleats,447
+2017-04-03,Cleats,514
+2017-04-10,Cleats,469
+2017-04-17,Cleats,565
+2017-04-24,Cleats,526
+2017-05-01,Cleats,500
+2017-05-08,Cleats,441
+2017-05-15,Cleats,514
+2017-05-22,Cleats,537
+2017-05-29,Cleats,490
+2017-06-05,Cleats,448
+2017-06-12,Cleats,393
+2017-06-19,Cleats,505
+2017-06-26,Cleats,493
+2017-07-03,Cleats,551
+2017-07-10,Cleats,524
+2017-07-17,Cleats,506
+2017-07-24,Cleats,508
+2017-07-31,Cleats,474
+2017-08-07,Cleats,516
+2017-08-14,Cleats,485
+2017-08-21,Cleats,547
+2017-08-28,Cleats,590
+2017-09-04,Cleats,491
+2017-09-11,Cleats,509
+2017-09-18,Cleats,457
+2017-09-25,Cleats,485
+2017-10-02,Cleats,34
+2014-12-29,Electronics,55
+2015-01-05,Electronics,76
+2015-01-12,Electronics,81
+2015-01-19,Electronics,91
+2015-01-26,Electronics,90
+2015-02-02,Electronics,90
+2015-02-09,Electronics,64
+2015-02-16,Electronics,91
+2015-02-23,Electronics,77
+2015-03-02,Electronics,103
+2015-03-09,Electronics,84
+2015-03-16,Electronics,90
+2015-03-23,Electronics,69
+2015-03-30,Electronics,59
+2015-04-06,Electronics,54
+2015-04-13,Electronics,65
+2015-04-20,Electronics,69
+2015-04-27,Electronics,91
+2015-05-04,Electronics,69
+2015-05-11,Electronics,77
+2015-05-18,Electronics,82
+2015-05-25,Electronics,81
+2015-06-01,Electronics,66
+2015-06-08,Electronics,55
+2015-06-15,Electronics,97
+2015-06-22,Electronics,93
+2015-06-29,Electronics,71
+2015-07-06,Electronics,84
+2015-07-13,Electronics,90
+2015-07-20,Electronics,66
+2015-07-27,Electronics,92
+2015-08-03,Electronics,85
+2015-08-10,Electronics,94
+2015-08-17,Electronics,80
+2015-08-24,Electronics,79
+2015-08-31,Electronics,102
+2015-09-07,Electronics,87
+2015-09-14,Electronics,59
+2015-09-21,Electronics,86
+2015-09-28,Electronics,70
+2015-10-05,Electronics,59
+2015-10-12,Electronics,59
+2015-10-19,Electronics,77
+2015-10-26,Electronics,90
+2015-11-02,Electronics,90
+2015-11-09,Electronics,85
+2015-11-16,Electronics,103
+2015-11-23,Electronics,75
+2015-11-30,Electronics,134
+2015-12-07,Electronics,69
+2015-12-14,Electronics,90
+2015-12-21,Electronics,99
+2015-12-28,Electronics,97
+2016-01-04,Electronics,62
+2016-01-11,Electronics,72
+2016-01-18,Electronics,74
+2016-01-25,Electronics,73
+2016-02-01,Electronics,58
+2016-02-08,Electronics,64
+2016-02-15,Electronics,98
+2016-02-22,Electronics,84
+2016-02-29,Electronics,84
+2016-03-07,Electronics,72
+2016-03-14,Electronics,86
+2016-03-21,Electronics,47
+2016-03-28,Electronics,75
+2016-04-04,Electronics,44
+2016-04-11,Electronics,52
+2016-04-18,Electronics,73
+2016-04-25,Electronics,69
+2016-05-02,Electronics,85
+2016-05-09,Electronics,83
+2016-05-16,Electronics,94
+2016-05-23,Electronics,38
+2016-05-30,Electronics,85
+2016-06-06,Electronics,62
+2016-06-13,Electronics,101
+2016-06-20,Electronics,86
+2016-06-27,Electronics,89
+2016-07-04,Electronics,100
+2016-07-11,Electronics,55
+2016-07-18,Electronics,54
+2016-07-25,Electronics,69
+2016-08-01,Electronics,72
+2016-08-08,Electronics,75
+2016-08-15,Electronics,101
+2016-08-22,Electronics,101
+2016-08-29,Electronics,64
+2016-09-05,Electronics,86
+2016-09-12,Electronics,86
+2016-09-19,Electronics,72
+2016-09-26,Electronics,94
+2016-10-03,Electronics,68
+2016-10-10,Electronics,128
+2016-10-17,Electronics,81
+2016-10-24,Electronics,97
+2016-10-31,Electronics,85
+2016-11-07,Electronics,79
+2016-11-14,Electronics,86
+2016-11-21,Electronics,77
+2016-11-28,Electronics,53
+2016-12-05,Electronics,77
+2016-12-12,Electronics,81
+2016-12-19,Electronics,70
+2016-12-26,Electronics,84
+2017-01-02,Electronics,62
+2017-01-09,Electronics,80
+2017-01-16,Electronics,51
+2017-01-23,Electronics,77
+2017-01-30,Electronics,67
+2017-02-06,Electronics,74
+2017-02-13,Electronics,91
+2017-02-20,Electronics,65
+2017-02-27,Electronics,90
+2017-03-06,Electronics,69
+2017-03-13,Electronics,76
+2017-03-20,Electronics,59
+2017-03-27,Electronics,102
+2017-04-03,Electronics,71
+2017-04-10,Electronics,52
+2017-04-17,Electronics,54
+2017-04-24,Electronics,0
+2017-05-01,Electronics,0
+2017-05-08,Electronics,0
+2017-05-15,Electronics,0
+2017-05-22,Electronics,0
+2017-05-29,Electronics,0
+2017-06-05,Electronics,0
+2017-06-12,Electronics,0
+2017-06-19,Electronics,0
+2017-06-26,Electronics,0
+2017-07-03,Electronics,0
+2017-07-10,Electronics,0
+2017-07-17,Electronics,0
+2017-07-24,Electronics,0
+2017-07-31,Electronics,0
+2017-08-07,Electronics,0
+2017-08-14,Electronics,0
+2017-08-21,Electronics,0
+2017-08-28,Electronics,0
+2017-09-04,Electronics,0
+2017-09-11,Electronics,0
+2017-09-18,Electronics,0
+2017-09-25,Electronics,0
+2017-10-02,Electronics,0
+2014-12-29,Fishing,66
+2015-01-05,Fishing,128
+2015-01-12,Fishing,111
+2015-01-19,Fishing,140
+2015-01-26,Fishing,114
+2015-02-02,Fishing,96
+2015-02-09,Fishing,121
+2015-02-16,Fishing,109
+2015-02-23,Fishing,120
+2015-03-02,Fishing,134
+2015-03-09,Fishing,107
+2015-03-16,Fishing,120
+2015-03-23,Fishing,112
+2015-03-30,Fishing,120
+2015-04-06,Fishing,123
+2015-04-13,Fishing,114
+2015-04-20,Fishing,119
+2015-04-27,Fishing,130
+2015-05-04,Fishing,105
+2015-05-11,Fishing,114
+2015-05-18,Fishing,117
+2015-05-25,Fishing,128
+2015-06-01,Fishing,113
+2015-06-08,Fishing,137
+2015-06-15,Fishing,114
+2015-06-22,Fishing,129
+2015-06-29,Fishing,137
+2015-07-06,Fishing,131
+2015-07-13,Fishing,113
+2015-07-20,Fishing,102
+2015-07-27,Fishing,114
+2015-08-03,Fishing,106
+2015-08-10,Fishing,114
+2015-08-17,Fishing,133
+2015-08-24,Fishing,105
+2015-08-31,Fishing,151
+2015-09-07,Fishing,113
+2015-09-14,Fishing,99
+2015-09-21,Fishing,106
+2015-09-28,Fishing,118
+2015-10-05,Fishing,112
+2015-10-12,Fishing,126
+2015-10-19,Fishing,99
+2015-10-26,Fishing,137
+2015-11-02,Fishing,140
+2015-11-09,Fishing,121
+2015-11-16,Fishing,124
+2015-11-23,Fishing,115
+2015-11-30,Fishing,135
+2015-12-07,Fishing,118
+2015-12-14,Fishing,130
+2015-12-21,Fishing,141
+2015-12-28,Fishing,110
+2016-01-04,Fishing,124
+2016-01-11,Fishing,134
+2016-01-18,Fishing,126
+2016-01-25,Fishing,119
+2016-02-01,Fishing,119
+2016-02-08,Fishing,114
+2016-02-15,Fishing,139
+2016-02-22,Fishing,137
+2016-02-29,Fishing,109
+2016-03-07,Fishing,124
+2016-03-14,Fishing,128
+2016-03-21,Fishing,121
+2016-03-28,Fishing,113
+2016-04-04,Fishing,142
+2016-04-11,Fishing,130
+2016-04-18,Fishing,121
+2016-04-25,Fishing,96
+2016-05-02,Fishing,105
+2016-05-09,Fishing,126
+2016-05-16,Fishing,129
+2016-05-23,Fishing,89
+2016-05-30,Fishing,110
+2016-06-06,Fishing,133
+2016-06-13,Fishing,143
+2016-06-20,Fishing,129
+2016-06-27,Fishing,118
+2016-07-04,Fishing,118
+2016-07-11,Fishing,115
+2016-07-18,Fishing,126
+2016-07-25,Fishing,110
+2016-08-01,Fishing,122
+2016-08-08,Fishing,103
+2016-08-15,Fishing,126
+2016-08-22,Fishing,130
+2016-08-29,Fishing,116
+2016-09-05,Fishing,108
+2016-09-12,Fishing,135
+2016-09-19,Fishing,112
+2016-09-26,Fishing,109
+2016-10-03,Fishing,115
+2016-10-10,Fishing,119
+2016-10-17,Fishing,125
+2016-10-24,Fishing,110
+2016-10-31,Fishing,139
+2016-11-07,Fishing,124
+2016-11-14,Fishing,127
+2016-11-21,Fishing,135
+2016-11-28,Fishing,129
+2016-12-05,Fishing,107
+2016-12-12,Fishing,103
+2016-12-19,Fishing,113
+2016-12-26,Fishing,142
+2017-01-02,Fishing,112
+2017-01-09,Fishing,116
+2017-01-16,Fishing,118
+2017-01-23,Fishing,109
+2017-01-30,Fishing,137
+2017-02-06,Fishing,133
+2017-02-13,Fishing,118
+2017-02-20,Fishing,102
+2017-02-27,Fishing,112
+2017-03-06,Fishing,120
+2017-03-13,Fishing,115
+2017-03-20,Fishing,105
+2017-03-27,Fishing,124
+2017-04-03,Fishing,126
+2017-04-10,Fishing,115
+2017-04-17,Fishing,126
+2017-04-24,Fishing,116
+2017-05-01,Fishing,128
+2017-05-08,Fishing,115
+2017-05-15,Fishing,114
+2017-05-22,Fishing,128
+2017-05-29,Fishing,111
+2017-06-05,Fishing,112
+2017-06-12,Fishing,126
+2017-06-19,Fishing,137
+2017-06-26,Fishing,130
+2017-07-03,Fishing,124
+2017-07-10,Fishing,108
+2017-07-17,Fishing,119
+2017-07-24,Fishing,129
+2017-07-31,Fishing,111
+2017-08-07,Fishing,130
+2017-08-14,Fishing,128
+2017-08-21,Fishing,142
+2017-08-28,Fishing,104
+2017-09-04,Fishing,114
+2017-09-11,Fishing,143
+2017-09-18,Fishing,140
+2017-09-25,Fishing,138
+2017-10-02,Fishing,3
+2014-12-29,Indoor/Outdoor Games,222
+2015-01-05,Indoor/Outdoor Games,391
+2015-01-12,Indoor/Outdoor Games,451
+2015-01-19,Indoor/Outdoor Games,464
+2015-01-26,Indoor/Outdoor Games,388
+2015-02-02,Indoor/Outdoor Games,428
+2015-02-09,Indoor/Outdoor Games,385
+2015-02-16,Indoor/Outdoor Games,416
+2015-02-23,Indoor/Outdoor Games,408
+2015-03-02,Indoor/Outdoor Games,417
+2015-03-09,Indoor/Outdoor Games,398
+2015-03-16,Indoor/Outdoor Games,442
+2015-03-23,Indoor/Outdoor Games,451
+2015-03-30,Indoor/Outdoor Games,452
+2015-04-06,Indoor/Outdoor Games,379
+2015-04-13,Indoor/Outdoor Games,433
+2015-04-20,Indoor/Outdoor Games,422
+2015-04-27,Indoor/Outdoor Games,359
+2015-05-04,Indoor/Outdoor Games,408
+2015-05-11,Indoor/Outdoor Games,410
+2015-05-18,Indoor/Outdoor Games,379
+2015-05-25,Indoor/Outdoor Games,380
+2015-06-01,Indoor/Outdoor Games,409
+2015-06-08,Indoor/Outdoor Games,357
+2015-06-15,Indoor/Outdoor Games,452
+2015-06-22,Indoor/Outdoor Games,326
+2015-06-29,Indoor/Outdoor Games,488
+2015-07-06,Indoor/Outdoor Games,410
+2015-07-13,Indoor/Outdoor Games,391
+2015-07-20,Indoor/Outdoor Games,422
+2015-07-27,Indoor/Outdoor Games,386
+2015-08-03,Indoor/Outdoor Games,404
+2015-08-10,Indoor/Outdoor Games,322
+2015-08-17,Indoor/Outdoor Games,306
+2015-08-24,Indoor/Outdoor Games,373
+2015-08-31,Indoor/Outdoor Games,409
+2015-09-07,Indoor/Outdoor Games,396
+2015-09-14,Indoor/Outdoor Games,524
+2015-09-21,Indoor/Outdoor Games,370
+2015-09-28,Indoor/Outdoor Games,424
+2015-10-05,Indoor/Outdoor Games,396
+2015-10-12,Indoor/Outdoor Games,361
+2015-10-19,Indoor/Outdoor Games,447
+2015-10-26,Indoor/Outdoor Games,403
+2015-11-02,Indoor/Outdoor Games,410
+2015-11-09,Indoor/Outdoor Games,445
+2015-11-16,Indoor/Outdoor Games,410
+2015-11-23,Indoor/Outdoor Games,415
+2015-11-30,Indoor/Outdoor Games,342
+2015-12-07,Indoor/Outdoor Games,380
+2015-12-14,Indoor/Outdoor Games,462
+2015-12-21,Indoor/Outdoor Games,449
+2015-12-28,Indoor/Outdoor Games,426
+2016-01-04,Indoor/Outdoor Games,382
+2016-01-11,Indoor/Outdoor Games,425
+2016-01-18,Indoor/Outdoor Games,393
+2016-01-25,Indoor/Outdoor Games,458
+2016-02-01,Indoor/Outdoor Games,439
+2016-02-08,Indoor/Outdoor Games,466
+2016-02-15,Indoor/Outdoor Games,430
+2016-02-22,Indoor/Outdoor Games,398
+2016-02-29,Indoor/Outdoor Games,394
+2016-03-07,Indoor/Outdoor Games,392
+2016-03-14,Indoor/Outdoor Games,351
+2016-03-21,Indoor/Outdoor Games,366
+2016-03-28,Indoor/Outdoor Games,363
+2016-04-04,Indoor/Outdoor Games,347
+2016-04-11,Indoor/Outdoor Games,417
+2016-04-18,Indoor/Outdoor Games,446
+2016-04-25,Indoor/Outdoor Games,365
+2016-05-02,Indoor/Outdoor Games,385
+2016-05-09,Indoor/Outdoor Games,407
+2016-05-16,Indoor/Outdoor Games,391
+2016-05-23,Indoor/Outdoor Games,419
+2016-05-30,Indoor/Outdoor Games,410
+2016-06-06,Indoor/Outdoor Games,342
+2016-06-13,Indoor/Outdoor Games,342
+2016-06-20,Indoor/Outdoor Games,354
+2016-06-27,Indoor/Outdoor Games,429
+2016-07-04,Indoor/Outdoor Games,378
+2016-07-11,Indoor/Outdoor Games,439
+2016-07-18,Indoor/Outdoor Games,402
+2016-07-25,Indoor/Outdoor Games,385
+2016-08-01,Indoor/Outdoor Games,414
+2016-08-08,Indoor/Outdoor Games,310
+2016-08-15,Indoor/Outdoor Games,411
+2016-08-22,Indoor/Outdoor Games,328
+2016-08-29,Indoor/Outdoor Games,366
+2016-09-05,Indoor/Outdoor Games,349
+2016-09-12,Indoor/Outdoor Games,489
+2016-09-19,Indoor/Outdoor Games,368
+2016-09-26,Indoor/Outdoor Games,438
+2016-10-03,Indoor/Outdoor Games,426
+2016-10-10,Indoor/Outdoor Games,518
+2016-10-17,Indoor/Outdoor Games,443
+2016-10-24,Indoor/Outdoor Games,431
+2016-10-31,Indoor/Outdoor Games,405
+2016-11-07,Indoor/Outdoor Games,395
+2016-11-14,Indoor/Outdoor Games,429
+2016-11-21,Indoor/Outdoor Games,431
+2016-11-28,Indoor/Outdoor Games,357
+2016-12-05,Indoor/Outdoor Games,443
+2016-12-12,Indoor/Outdoor Games,411
+2016-12-19,Indoor/Outdoor Games,417
+2016-12-26,Indoor/Outdoor Games,423
+2017-01-02,Indoor/Outdoor Games,372
+2017-01-09,Indoor/Outdoor Games,393
+2017-01-16,Indoor/Outdoor Games,388
+2017-01-23,Indoor/Outdoor Games,452
+2017-01-30,Indoor/Outdoor Games,449
+2017-02-06,Indoor/Outdoor Games,439
+2017-02-13,Indoor/Outdoor Games,431
+2017-02-20,Indoor/Outdoor Games,470
+2017-02-27,Indoor/Outdoor Games,300
+2017-03-06,Indoor/Outdoor Games,435
+2017-03-13,Indoor/Outdoor Games,413
+2017-03-20,Indoor/Outdoor Games,358
+2017-03-27,Indoor/Outdoor Games,432
+2017-04-03,Indoor/Outdoor Games,422
+2017-04-10,Indoor/Outdoor Games,435
+2017-04-17,Indoor/Outdoor Games,394
+2017-04-24,Indoor/Outdoor Games,466
+2017-05-01,Indoor/Outdoor Games,434
+2017-05-08,Indoor/Outdoor Games,373
+2017-05-15,Indoor/Outdoor Games,366
+2017-05-22,Indoor/Outdoor Games,413
+2017-05-29,Indoor/Outdoor Games,436
+2017-06-05,Indoor/Outdoor Games,365
+2017-06-12,Indoor/Outdoor Games,356
+2017-06-19,Indoor/Outdoor Games,341
+2017-06-26,Indoor/Outdoor Games,378
+2017-07-03,Indoor/Outdoor Games,400
+2017-07-10,Indoor/Outdoor Games,409
+2017-07-17,Indoor/Outdoor Games,381
+2017-07-24,Indoor/Outdoor Games,364
+2017-07-31,Indoor/Outdoor Games,383
+2017-08-07,Indoor/Outdoor Games,378
+2017-08-14,Indoor/Outdoor Games,356
+2017-08-21,Indoor/Outdoor Games,393
+2017-08-28,Indoor/Outdoor Games,448
+2017-09-04,Indoor/Outdoor Games,301
+2017-09-11,Indoor/Outdoor Games,362
+2017-09-18,Indoor/Outdoor Games,407
+2017-09-25,Indoor/Outdoor Games,372
+2017-10-02,Indoor/Outdoor Games,23
+2014-12-29,Men's Footwear,77
+2015-01-05,Men's Footwear,147
+2015-01-12,Men's Footwear,140
+2015-01-19,Men's Footwear,128
+2015-01-26,Men's Footwear,148
+2015-02-02,Men's Footwear,189
+2015-02-09,Men's Footwear,145
+2015-02-16,Men's Footwear,143
+2015-02-23,Men's Footwear,170
+2015-03-02,Men's Footwear,131
+2015-03-09,Men's Footwear,150
+2015-03-16,Men's Footwear,121
+2015-03-23,Men's Footwear,136
+2015-03-30,Men's Footwear,188
+2015-04-06,Men's Footwear,159
+2015-04-13,Men's Footwear,151
+2015-04-20,Men's Footwear,124
+2015-04-27,Men's Footwear,137
+2015-05-04,Men's Footwear,132
+2015-05-11,Men's Footwear,141
+2015-05-18,Men's Footwear,166
+2015-05-25,Men's Footwear,154
+2015-06-01,Men's Footwear,163
+2015-06-08,Men's Footwear,174
+2015-06-15,Men's Footwear,133
+2015-06-22,Men's Footwear,135
+2015-06-29,Men's Footwear,159
+2015-07-06,Men's Footwear,156
+2015-07-13,Men's Footwear,169
+2015-07-20,Men's Footwear,149
+2015-07-27,Men's Footwear,139
+2015-08-03,Men's Footwear,164
+2015-08-10,Men's Footwear,148
+2015-08-17,Men's Footwear,146
+2015-08-24,Men's Footwear,157
+2015-08-31,Men's Footwear,168
+2015-09-07,Men's Footwear,153
+2015-09-14,Men's Footwear,143
+2015-09-21,Men's Footwear,171
+2015-09-28,Men's Footwear,175
+2015-10-05,Men's Footwear,150
+2015-10-12,Men's Footwear,146
+2015-10-19,Men's Footwear,134
+2015-10-26,Men's Footwear,165
+2015-11-02,Men's Footwear,169
+2015-11-09,Men's Footwear,154
+2015-11-16,Men's Footwear,160
+2015-11-23,Men's Footwear,136
+2015-11-30,Men's Footwear,163
+2015-12-07,Men's Footwear,140
+2015-12-14,Men's Footwear,151
+2015-12-21,Men's Footwear,194
+2015-12-28,Men's Footwear,161
+2016-01-04,Men's Footwear,146
+2016-01-11,Men's Footwear,148
+2016-01-18,Men's Footwear,164
+2016-01-25,Men's Footwear,155
+2016-02-01,Men's Footwear,153
+2016-02-08,Men's Footwear,151
+2016-02-15,Men's Footwear,163
+2016-02-22,Men's Footwear,143
+2016-02-29,Men's Footwear,153
+2016-03-07,Men's Footwear,151
+2016-03-14,Men's Footwear,165
+2016-03-21,Men's Footwear,142
+2016-03-28,Men's Footwear,151
+2016-04-04,Men's Footwear,163
+2016-04-11,Men's Footwear,182
+2016-04-18,Men's Footwear,152
+2016-04-25,Men's Footwear,141
+2016-05-02,Men's Footwear,129
+2016-05-09,Men's Footwear,152
+2016-05-16,Men's Footwear,161
+2016-05-23,Men's Footwear,168
+2016-05-30,Men's Footwear,160
+2016-06-06,Men's Footwear,155
+2016-06-13,Men's Footwear,151
+2016-06-20,Men's Footwear,155
+2016-06-27,Men's Footwear,167
+2016-07-04,Men's Footwear,152
+2016-07-11,Men's Footwear,159
+2016-07-18,Men's Footwear,138
+2016-07-25,Men's Footwear,172
+2016-08-01,Men's Footwear,140
+2016-08-08,Men's Footwear,153
+2016-08-15,Men's Footwear,176
+2016-08-22,Men's Footwear,180
+2016-08-29,Men's Footwear,170
+2016-09-05,Men's Footwear,167
+2016-09-12,Men's Footwear,167
+2016-09-19,Men's Footwear,147
+2016-09-26,Men's Footwear,152
+2016-10-03,Men's Footwear,153
+2016-10-10,Men's Footwear,166
+2016-10-17,Men's Footwear,176
+2016-10-24,Men's Footwear,168
+2016-10-31,Men's Footwear,150
+2016-11-07,Men's Footwear,179
+2016-11-14,Men's Footwear,144
+2016-11-21,Men's Footwear,143
+2016-11-28,Men's Footwear,152
+2016-12-05,Men's Footwear,157
+2016-12-12,Men's Footwear,148
+2016-12-19,Men's Footwear,136
+2016-12-26,Men's Footwear,173
+2017-01-02,Men's Footwear,172
+2017-01-09,Men's Footwear,141
+2017-01-16,Men's Footwear,141
+2017-01-23,Men's Footwear,150
+2017-01-30,Men's Footwear,153
+2017-02-06,Men's Footwear,129
+2017-02-13,Men's Footwear,124
+2017-02-20,Men's Footwear,169
+2017-02-27,Men's Footwear,147
+2017-03-06,Men's Footwear,163
+2017-03-13,Men's Footwear,153
+2017-03-20,Men's Footwear,175
+2017-03-27,Men's Footwear,172
+2017-04-03,Men's Footwear,157
+2017-04-10,Men's Footwear,157
+2017-04-17,Men's Footwear,160
+2017-04-24,Men's Footwear,148
+2017-05-01,Men's Footwear,176
+2017-05-08,Men's Footwear,178
+2017-05-15,Men's Footwear,151
+2017-05-22,Men's Footwear,157
+2017-05-29,Men's Footwear,197
+2017-06-05,Men's Footwear,159
+2017-06-12,Men's Footwear,145
+2017-06-19,Men's Footwear,170
+2017-06-26,Men's Footwear,130
+2017-07-03,Men's Footwear,166
+2017-07-10,Men's Footwear,154
+2017-07-17,Men's Footwear,162
+2017-07-24,Men's Footwear,147
+2017-07-31,Men's Footwear,167
+2017-08-07,Men's Footwear,165
+2017-08-14,Men's Footwear,153
+2017-08-21,Men's Footwear,156
+2017-08-28,Men's Footwear,133
+2017-09-04,Men's Footwear,149
+2017-09-11,Men's Footwear,177
+2017-09-18,Men's Footwear,145
+2017-09-25,Men's Footwear,148
+2017-10-02,Men's Footwear,9
+2014-12-29,Shop By Sport,148
+2015-01-05,Shop By Sport,206
+2015-01-12,Shop By Sport,257
+2015-01-19,Shop By Sport,264
+2015-01-26,Shop By Sport,230
+2015-02-02,Shop By Sport,244
+2015-02-09,Shop By Sport,210
+2015-02-16,Shop By Sport,241
+2015-02-23,Shop By Sport,267
+2015-03-02,Shop By Sport,276
+2015-03-09,Shop By Sport,232
+2015-03-16,Shop By Sport,225
+2015-03-23,Shop By Sport,256
+2015-03-30,Shop By Sport,218
+2015-04-06,Shop By Sport,241
+2015-04-13,Shop By Sport,218
+2015-04-20,Shop By Sport,183
+2015-04-27,Shop By Sport,271
+2015-05-04,Shop By Sport,235
+2015-05-11,Shop By Sport,232
+2015-05-18,Shop By Sport,224
+2015-05-25,Shop By Sport,231
+2015-06-01,Shop By Sport,227
+2015-06-08,Shop By Sport,189
+2015-06-15,Shop By Sport,243
+2015-06-22,Shop By Sport,208
+2015-06-29,Shop By Sport,259
+2015-07-06,Shop By Sport,230
+2015-07-13,Shop By Sport,191
+2015-07-20,Shop By Sport,280
+2015-07-27,Shop By Sport,185
+2015-08-03,Shop By Sport,207
+2015-08-10,Shop By Sport,248
+2015-08-17,Shop By Sport,255
+2015-08-24,Shop By Sport,208
+2015-08-31,Shop By Sport,226
+2015-09-07,Shop By Sport,213
+2015-09-14,Shop By Sport,279
+2015-09-21,Shop By Sport,226
+2015-09-28,Shop By Sport,232
+2015-10-05,Shop By Sport,244
+2015-10-12,Shop By Sport,206
+2015-10-19,Shop By Sport,204
+2015-10-26,Shop By Sport,252
+2015-11-02,Shop By Sport,227
+2015-11-09,Shop By Sport,285
+2015-11-16,Shop By Sport,235
+2015-11-23,Shop By Sport,228
+2015-11-30,Shop By Sport,228
+2015-12-07,Shop By Sport,197
+2015-12-14,Shop By Sport,250
+2015-12-21,Shop By Sport,242
+2015-12-28,Shop By Sport,245
+2016-01-04,Shop By Sport,242
+2016-01-11,Shop By Sport,185
+2016-01-18,Shop By Sport,194
+2016-01-25,Shop By Sport,230
+2016-02-01,Shop By Sport,210
+2016-02-08,Shop By Sport,204
+2016-02-15,Shop By Sport,205
+2016-02-22,Shop By Sport,224
+2016-02-29,Shop By Sport,262
+2016-03-07,Shop By Sport,196
+2016-03-14,Shop By Sport,193
+2016-03-21,Shop By Sport,238
+2016-03-28,Shop By Sport,259
+2016-04-04,Shop By Sport,211
+2016-04-11,Shop By Sport,282
+2016-04-18,Shop By Sport,223
+2016-04-25,Shop By Sport,237
+2016-05-02,Shop By Sport,161
+2016-05-09,Shop By Sport,250
+2016-05-16,Shop By Sport,223
+2016-05-23,Shop By Sport,200
+2016-05-30,Shop By Sport,250
+2016-06-06,Shop By Sport,182
+2016-06-13,Shop By Sport,234
+2016-06-20,Shop By Sport,244
+2016-06-27,Shop By Sport,250
+2016-07-04,Shop By Sport,190
+2016-07-11,Shop By Sport,223
+2016-07-18,Shop By Sport,203
+2016-07-25,Shop By Sport,189
+2016-08-01,Shop By Sport,247
+2016-08-08,Shop By Sport,248
+2016-08-15,Shop By Sport,264
+2016-08-22,Shop By Sport,219
+2016-08-29,Shop By Sport,200
+2016-09-05,Shop By Sport,222
+2016-09-12,Shop By Sport,245
+2016-09-19,Shop By Sport,260
+2016-09-26,Shop By Sport,161
+2016-10-03,Shop By Sport,208
+2016-10-10,Shop By Sport,202
+2016-10-17,Shop By Sport,282
+2016-10-24,Shop By Sport,228
+2016-10-31,Shop By Sport,214
+2016-11-07,Shop By Sport,222
+2016-11-14,Shop By Sport,218
+2016-11-21,Shop By Sport,216
+2016-11-28,Shop By Sport,283
+2016-12-05,Shop By Sport,198
+2016-12-12,Shop By Sport,197
+2016-12-19,Shop By Sport,294
+2016-12-26,Shop By Sport,130
+2017-01-02,Shop By Sport,237
+2017-01-09,Shop By Sport,213
+2017-01-16,Shop By Sport,246
+2017-01-23,Shop By Sport,269
+2017-01-30,Shop By Sport,259
+2017-02-06,Shop By Sport,202
+2017-02-13,Shop By Sport,168
+2017-02-20,Shop By Sport,208
+2017-02-27,Shop By Sport,236
+2017-03-06,Shop By Sport,202
+2017-03-13,Shop By Sport,242
+2017-03-20,Shop By Sport,238
+2017-03-27,Shop By Sport,224
+2017-04-03,Shop By Sport,254
+2017-04-10,Shop By Sport,223
+2017-04-17,Shop By Sport,269
+2017-04-24,Shop By Sport,258
+2017-05-01,Shop By Sport,220
+2017-05-08,Shop By Sport,243
+2017-05-15,Shop By Sport,251
+2017-05-22,Shop By Sport,209
+2017-05-29,Shop By Sport,211
+2017-06-05,Shop By Sport,231
+2017-06-12,Shop By Sport,201
+2017-06-19,Shop By Sport,236
+2017-06-26,Shop By Sport,240
+2017-07-03,Shop By Sport,228
+2017-07-10,Shop By Sport,198
+2017-07-17,Shop By Sport,264
+2017-07-24,Shop By Sport,250
+2017-07-31,Shop By Sport,225
+2017-08-07,Shop By Sport,203
+2017-08-14,Shop By Sport,233
+2017-08-21,Shop By Sport,192
+2017-08-28,Shop By Sport,243
+2017-09-04,Shop By Sport,235
+2017-09-11,Shop By Sport,229
+2017-09-18,Shop By Sport,226
+2017-09-25,Shop By Sport,195
+2017-10-02,Shop By Sport,5
+2014-12-29,Water Sports,55
+2015-01-05,Water Sports,106
+2015-01-12,Water Sports,102
+2015-01-19,Water Sports,102
+2015-01-26,Water Sports,129
+2015-02-02,Water Sports,119
+2015-02-09,Water Sports,98
+2015-02-16,Water Sports,103
+2015-02-23,Water Sports,108
+2015-03-02,Water Sports,116
+2015-03-09,Water Sports,110
+2015-03-16,Water Sports,87
+2015-03-23,Water Sports,121
+2015-03-30,Water Sports,110
+2015-04-06,Water Sports,113
+2015-04-13,Water Sports,117
+2015-04-20,Water Sports,106
+2015-04-27,Water Sports,119
+2015-05-04,Water Sports,114
+2015-05-11,Water Sports,111
+2015-05-18,Water Sports,101
+2015-05-25,Water Sports,121
+2015-06-01,Water Sports,101
+2015-06-08,Water Sports,94
+2015-06-15,Water Sports,115
+2015-06-22,Water Sports,124
+2015-06-29,Water Sports,92
+2015-07-06,Water Sports,115
+2015-07-13,Water Sports,109
+2015-07-20,Water Sports,106
+2015-07-27,Water Sports,112
+2015-08-03,Water Sports,98
+2015-08-10,Water Sports,107
+2015-08-17,Water Sports,116
+2015-08-24,Water Sports,118
+2015-08-31,Water Sports,102
+2015-09-07,Water Sports,91
+2015-09-14,Water Sports,102
+2015-09-21,Water Sports,105
+2015-09-28,Water Sports,111
+2015-10-05,Water Sports,122
+2015-10-12,Water Sports,95
+2015-10-19,Water Sports,105
+2015-10-26,Water Sports,107
+2015-11-02,Water Sports,109
+2015-11-09,Water Sports,101
+2015-11-16,Water Sports,116
+2015-11-23,Water Sports,113
+2015-11-30,Water Sports,130
+2015-12-07,Water Sports,116
+2015-12-14,Water Sports,104
+2015-12-21,Water Sports,108
+2015-12-28,Water Sports,102
+2016-01-04,Water Sports,91
+2016-01-11,Water Sports,107
+2016-01-18,Water Sports,88
+2016-01-25,Water Sports,124
+2016-02-01,Water Sports,100
+2016-02-08,Water Sports,101
+2016-02-15,Water Sports,114
+2016-02-22,Water Sports,96
+2016-02-29,Water Sports,94
+2016-03-07,Water Sports,108
+2016-03-14,Water Sports,110
+2016-03-21,Water Sports,93
+2016-03-28,Water Sports,102
+2016-04-04,Water Sports,100
+2016-04-11,Water Sports,112
+2016-04-18,Water Sports,105
+2016-04-25,Water Sports,88
+2016-05-02,Water Sports,119
+2016-05-09,Water Sports,128
+2016-05-16,Water Sports,118
+2016-05-23,Water Sports,106
+2016-05-30,Water Sports,102
+2016-06-06,Water Sports,93
+2016-06-13,Water Sports,95
+2016-06-20,Water Sports,101
+2016-06-27,Water Sports,109
+2016-07-04,Water Sports,122
+2016-07-11,Water Sports,107
+2016-07-18,Water Sports,114
+2016-07-25,Water Sports,115
+2016-08-01,Water Sports,95
+2016-08-08,Water Sports,90
+2016-08-15,Water Sports,111
+2016-08-22,Water Sports,117
+2016-08-29,Water Sports,108
+2016-09-05,Water Sports,107
+2016-09-12,Water Sports,118
+2016-09-19,Water Sports,100
+2016-09-26,Water Sports,125
+2016-10-03,Water Sports,85
+2016-10-10,Water Sports,115
+2016-10-17,Water Sports,108
+2016-10-24,Water Sports,124
+2016-10-31,Water Sports,110
+2016-11-07,Water Sports,110
+2016-11-14,Water Sports,104
+2016-11-21,Water Sports,122
+2016-11-28,Water Sports,105
+2016-12-05,Water Sports,79
+2016-12-12,Water Sports,107
+2016-12-19,Water Sports,97
+2016-12-26,Water Sports,112
+2017-01-02,Water Sports,116
+2017-01-09,Water Sports,95
+2017-01-16,Water Sports,89
+2017-01-23,Water Sports,103
+2017-01-30,Water Sports,111
+2017-02-06,Water Sports,120
+2017-02-13,Water Sports,103
+2017-02-20,Water Sports,96
+2017-02-27,Water Sports,120
+2017-03-06,Water Sports,101
+2017-03-13,Water Sports,118
+2017-03-20,Water Sports,102
+2017-03-27,Water Sports,124
+2017-04-03,Water Sports,106
+2017-04-10,Water Sports,113
+2017-04-17,Water Sports,107
+2017-04-24,Water Sports,121
+2017-05-01,Water Sports,117
+2017-05-08,Water Sports,104
+2017-05-15,Water Sports,111
+2017-05-22,Water Sports,109
+2017-05-29,Water Sports,121
+2017-06-05,Water Sports,103
+2017-06-12,Water Sports,88
+2017-06-19,Water Sports,110
+2017-06-26,Water Sports,121
+2017-07-03,Water Sports,124
+2017-07-10,Water Sports,110
+2017-07-17,Water Sports,112
+2017-07-24,Water Sports,74
+2017-07-31,Water Sports,118
+2017-08-07,Water Sports,124
+2017-08-14,Water Sports,109
+2017-08-21,Water Sports,125
+2017-08-28,Water Sports,96
+2017-09-04,Water Sports,125
+2017-09-11,Water Sports,113
+2017-09-18,Water Sports,120
+2017-09-25,Water Sports,128
+2017-10-02,Water Sports,8
+2014-12-29,Women's Apparel,223
+2015-01-05,Women's Apparel,378
+2015-01-12,Women's Apparel,488
+2015-01-19,Women's Apparel,380
+2015-01-26,Women's Apparel,483
+2015-02-02,Women's Apparel,396
+2015-02-09,Women's Apparel,410
+2015-02-16,Women's Apparel,504
+2015-02-23,Women's Apparel,468
+2015-03-02,Women's Apparel,433
+2015-03-09,Women's Apparel,411
+2015-03-16,Women's Apparel,436
+2015-03-23,Women's Apparel,488
+2015-03-30,Women's Apparel,470
+2015-04-06,Women's Apparel,514
+2015-04-13,Women's Apparel,481
+2015-04-20,Women's Apparel,378
+2015-04-27,Women's Apparel,459
+2015-05-04,Women's Apparel,402
+2015-05-11,Women's Apparel,417
+2015-05-18,Women's Apparel,431
+2015-05-25,Women's Apparel,482
+2015-06-01,Women's Apparel,394
+2015-06-08,Women's Apparel,411
+2015-06-15,Women's Apparel,398
+2015-06-22,Women's Apparel,432
+2015-06-29,Women's Apparel,449
+2015-07-06,Women's Apparel,475
+2015-07-13,Women's Apparel,531
+2015-07-20,Women's Apparel,425
+2015-07-27,Women's Apparel,482
+2015-08-03,Women's Apparel,416
+2015-08-10,Women's Apparel,465
+2015-08-17,Women's Apparel,439
+2015-08-24,Women's Apparel,439
+2015-08-31,Women's Apparel,399
+2015-09-07,Women's Apparel,380
+2015-09-14,Women's Apparel,455
+2015-09-21,Women's Apparel,527
+2015-09-28,Women's Apparel,425
+2015-10-05,Women's Apparel,474
+2015-10-12,Women's Apparel,501
+2015-10-19,Women's Apparel,427
+2015-10-26,Women's Apparel,352
+2015-11-02,Women's Apparel,448
+2015-11-09,Women's Apparel,427
+2015-11-16,Women's Apparel,405
+2015-11-23,Women's Apparel,367
+2015-11-30,Women's Apparel,441
+2015-12-07,Women's Apparel,371
+2015-12-14,Women's Apparel,381
+2015-12-21,Women's Apparel,495
+2015-12-28,Women's Apparel,479
+2016-01-04,Women's Apparel,469
+2016-01-11,Women's Apparel,449
+2016-01-18,Women's Apparel,481
+2016-01-25,Women's Apparel,468
+2016-02-01,Women's Apparel,375
+2016-02-08,Women's Apparel,486
+2016-02-15,Women's Apparel,409
+2016-02-22,Women's Apparel,392
+2016-02-29,Women's Apparel,462
+2016-03-07,Women's Apparel,361
+2016-03-14,Women's Apparel,409
+2016-03-21,Women's Apparel,425
+2016-03-28,Women's Apparel,448
+2016-04-04,Women's Apparel,386
+2016-04-11,Women's Apparel,418
+2016-04-18,Women's Apparel,469
+2016-04-25,Women's Apparel,384
+2016-05-02,Women's Apparel,444
+2016-05-09,Women's Apparel,415
+2016-05-16,Women's Apparel,445
+2016-05-23,Women's Apparel,419
+2016-05-30,Women's Apparel,456
+2016-06-06,Women's Apparel,486
+2016-06-13,Women's Apparel,375
+2016-06-20,Women's Apparel,486
+2016-06-27,Women's Apparel,373
+2016-07-04,Women's Apparel,417
+2016-07-11,Women's Apparel,441
+2016-07-18,Women's Apparel,457
+2016-07-25,Women's Apparel,494
+2016-08-01,Women's Apparel,497
+2016-08-08,Women's Apparel,503
+2016-08-15,Women's Apparel,432
+2016-08-22,Women's Apparel,425
+2016-08-29,Women's Apparel,438
+2016-09-05,Women's Apparel,412
+2016-09-12,Women's Apparel,477
+2016-09-19,Women's Apparel,467
+2016-09-26,Women's Apparel,482
+2016-10-03,Women's Apparel,397
+2016-10-10,Women's Apparel,471
+2016-10-17,Women's Apparel,473
+2016-10-24,Women's Apparel,414
+2016-10-31,Women's Apparel,445
+2016-11-07,Women's Apparel,394
+2016-11-14,Women's Apparel,376
+2016-11-21,Women's Apparel,468
+2016-11-28,Women's Apparel,422
+2016-12-05,Women's Apparel,464
+2016-12-12,Women's Apparel,382
+2016-12-19,Women's Apparel,420
+2016-12-26,Women's Apparel,482
+2017-01-02,Women's Apparel,377
+2017-01-09,Women's Apparel,510
+2017-01-16,Women's Apparel,479
+2017-01-23,Women's Apparel,414
+2017-01-30,Women's Apparel,455
+2017-02-06,Women's Apparel,467
+2017-02-13,Women's Apparel,465
+2017-02-20,Women's Apparel,514
+2017-02-27,Women's Apparel,530
+2017-03-06,Women's Apparel,512
+2017-03-13,Women's Apparel,406
+2017-03-20,Women's Apparel,425
+2017-03-27,Women's Apparel,445
+2017-04-03,Women's Apparel,375
+2017-04-10,Women's Apparel,405
+2017-04-17,Women's Apparel,389
+2017-04-24,Women's Apparel,417
+2017-05-01,Women's Apparel,425
+2017-05-08,Women's Apparel,399
+2017-05-15,Women's Apparel,438
+2017-05-22,Women's Apparel,372
+2017-05-29,Women's Apparel,464
+2017-06-05,Women's Apparel,407
+2017-06-12,Women's Apparel,414
+2017-06-19,Women's Apparel,457
+2017-06-26,Women's Apparel,506
+2017-07-03,Women's Apparel,419
+2017-07-10,Women's Apparel,378
+2017-07-17,Women's Apparel,465
+2017-07-24,Women's Apparel,383
+2017-07-31,Women's Apparel,483
+2017-08-07,Women's Apparel,423
+2017-08-14,Women's Apparel,403
+2017-08-21,Women's Apparel,470
+2017-08-28,Women's Apparel,447
+2017-09-04,Women's Apparel,452
+2017-09-11,Women's Apparel,429
+2017-09-18,Women's Apparel,461
+2017-09-25,Women's Apparel,469
+2017-10-02,Women's Apparel,25
